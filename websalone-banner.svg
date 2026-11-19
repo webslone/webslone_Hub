@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#16A34A"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <!-- Sierra Leone flag stripe: green, white, blue -->
+  <rect x="0" y="282" width="400" height="18" fill="#16A34A"/>
+  <rect x="400" y="282" width="400" height="18" fill="#FFFFFF"/>
+  <rect x="800" y="282" width="400" height="18" fill="#2563EB"/>
+  <g opacity="0.08" font-family="Consolas, monospace" font-size="22" fill="#FFFFFF">
+    <text x="40" y="60">const build = () =&gt; innovate();</text>
+    <text x="820" y="70">&lt;div class="grow"&gt;</text>
+    <text x="60" y="250">app.listen(3000);</text>
+    <text x="850" y="250">SELECT * FROM ideas;</text>
+  </g>
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#FFFFFF">Web<tspan fill="url(#g)">Salone</tspan> Hub</text>
+  <text x="600" y="210" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6" fill="#93C5FD">BUILD • INNOVATE • GROW</text>
+</svg>
