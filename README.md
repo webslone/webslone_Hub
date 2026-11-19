@@ -1,212 +1,32 @@
-
-<!-- ================================================= -->
-<!--               WEBSALONE HUB README                 -->
-<!-- ================================================= -->
-
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="assets/websalone-banner.svg" width="100%" alt="WebSalone Hub Banner" />
-</p>
-
-<h1 align="center">🌍 WebSalone Hub</h1>
-
-<h3 align="center">Build • Innovate • Grow</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;Digital+Solutions;Software+Engineering;Building+the+Digital+Future" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="assets/websalone-logo.png" width="360" alt="WebSalone Hub Logo" />
-</p>
-
-<p align="center">
-  <b>Building modern digital solutions for businesses, organizations and individuals.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Brand-WebSalone%20Hub-16A34A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mission-Digital%20Innovation-111827?style=for-the-badge" />
-</p>
-
----
-
-# 👋 Welcome to WebSalone Hub
-
-WebSalone Hub is a technology-focused brand dedicated to building modern, responsive, and user-friendly digital solutions.
-
-We are passionate about software development, web technologies, digital creativity, and solving real-world challenges through technology.
-
-Our goal is to help individuals, businesses, and organizations establish, improve, and grow their digital presence.
-
----
-
-# 🚀 Our Services
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Web Development
-Modern, responsive, and user-friendly websites designed for businesses, organizations and individuals.
-
-</td>
-<td width="50%">
-
-### 💻 Full-Stack Development
-Building complete web applications, from user interfaces to backend systems and databases.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Software Solutions
-Developing practical software applications that help simplify processes and solve problems.
-
-</td>
-<td width="50%">
-
-### 📱 Responsive Design
-Creating websites that work smoothly across mobile phones, tablets, laptops and desktops.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ Database Management
-Designing and managing databases for efficient data storage, organization and retrieval.
-
-</td>
-<td width="50%">
-
-### 💡 Digital Innovation
-Exploring creative technologies and developing solutions for the digital future.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Technologies & Tools
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database technologies" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
-</p>
-
----
-
-# 📂 Featured Projects
-
-### 🎓 Student Management System
-
-A web-based application designed to organize student records and simplify the management of academic information.
-
-**Key technologies:**
-HTML • CSS • JavaScript • Node.js • MySQL
-
----
-
-### 🛒 E-Commerce Web Application
-
-A full-stack e-commerce application featuring product browsing, product details, and a responsive online shopping interface.
-
-**Key technologies:**
-React.js • Node.js • Express.js • MongoDB
-
----
-
-### 🌍 WebSalone Hub Digital Projects
-
-Our vision is to build digital platforms, web applications, and technology solutions that support businesses, organizations, and communities.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webslone&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webslone&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=webslone&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
-</p>
-
----
-
-# 🌱 Our Mission
-
-To develop innovative, accessible, and impactful digital solutions through software engineering, creativity, and technology.
-
-# 🎯 Our Vision
-
-To become a trusted digital technology brand known for building useful, modern, and innovative solutions that contribute to a connected digital future.
-
----
-
-# 📱 Connect With WebSalone Hub
-
-<p align="center">
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
-    <img src="https://img.shields.io/badge/TikTok-Follow%20Us-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-
-  <a href="https://github.com/webslone">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Our%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="assets/websalone-logo.png" width="220" alt="WebSalone Hub Logo" />
-</p>
-
-<h3 align="center">WebSalone Hub</h3>
-
-<p align="center">
-  <b>Build • Innovate • Grow</b>
-</p>
-
-<p align="center">
-  Building digital solutions for a smarter future.
-</p>
-
-<p align="center">
-  ⭐ Thank you for visiting WebSalone Hub!
-</p>
-
-<!-- ================================================= -->
-<!--                  END README                        -->
-<!-- ================================================= -->
-
+<!-- ================================================= --> <!-- WEBSALONE HUB README --> <!-- ================================================= --> <!-- HEADER BANNER (hosted, no upload needed) --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:2563EB&height=200&section=header&text=WebSalone%20Hub&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Build%20%E2%80%A2%20Innovate%20%E2%80%A2%20Grow&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="WebSalone Hub Banner" /> </p> <!-- LOGO (upload your logo to assets/websalone-logo.png) --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Professional+Apps+%26+Websites+for+Business;Secure+%26+Protected+by+Design;Full-Stack+Web+Development;Custom+Software+Solutions;Responsive+Web+Design;Building+Sierra+Leone's+Digital+Future" alt="Typing animation" /> </p> <p align="center"> <b>We build professional apps and websites for businesses — secure, protected and built to last.</b><br/> <sub>Based in Freetown, Sierra Leone</sub> </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-Web%20Development-2563EB?style=for-the-badge" alt="Focus" /> <img src="https://img.shields.io/badge/Brand-WebSalone%20Hub-16A34A?style=for-the-badge" alt="Brand" /> <img src="https://img.shields.io/badge/Mission-Digital%20Innovation-111827?style=for-the-badge" alt="Mission" /> <img src="https://img.shields.io/badge/Security-Protected%20by%20Design-DC2626?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security" /> <img src="https://komarev.com/ghpvc/?username=webslone&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views" /> </p>
+About Us
+
+WebSalone Hub is a technology brand focused on building modern, responsive and user-friendly digital products.
+
+We build professional apps and websites for businesses and make sure every one of them is secure and protected — so your business, your data and your customers stay safe.
+
+We combine software engineering, clean design and practical thinking to solve real-world problems through technology. Our goal is to help individuals, businesses and organizations establish, improve and grow their digital presence.
+
+javascript
+const webSaloneHub = {
+  location: "Freetown, Sierra Leone",
+  focus: ["Business Websites", "Business Apps", "Full-Stack Apps", "Software Solutions"],
+  values: ["Quality", "Security", "Innovation", "Reliability"],
+  motto: "Build • Innovate • Grow",
+};
+Our Services
+<table> <tr> <td width="50%" valign="top"> <h3>🌐 Web & App Development</h3> Professional, responsive and user-friendly websites and apps for businesses, organizations and individuals. </td> <td width="50%" valign="top"> <h3>💻 Full-Stack Development</h3> Complete web applications — from user interfaces to backend systems, APIs and databases. </td> </tr> <tr> <td width="50%" valign="top"> <h3>⚙️ Software Solutions</h3> Practical software applications that simplify processes and solve everyday business problems. </td> <td width="50%" valign="top"> <h3>📱 Responsive Design</h3> Interfaces that work smoothly across mobile phones, tablets, laptops and desktops. </td> </tr> <tr> <td width="50%" valign="top"> <h3>🗄️ Database Management</h3> Database design and management for efficient storage, organization and retrieval of data. </td> <td width="50%" valign="top"> <h3>💡 Digital Innovation</h3> Exploring new technologies and building creative solutions for the digital future. </td> </tr> <tr> <td colspan="2" valign="top"> <h3>🔒 Security & Protection</h3> Every app and website we build is secure and protected — HTTPS/SSL, secure logins, data protection, input validation and safe backups — so your business and your customers' information stay safe. </td> </tr> </table>
+Tech Stack
+<table align="center"> <tr> <td align="center"><b>Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend" /></td> </tr> <tr> <td align="center"><b>Backend</b></td> <td><img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Backend" /></td> </tr> <tr> <td align="center"><b>Databases</b></td> <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" /></td> </tr> <tr> <td align="center"><b>Tools</b></td> <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /></td> </tr> </table>
+Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3>🎓 Student Management System</h3> A web-based application that organizes student records and simplifies the management of academic information. <br/><br/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </td> <td width="50%" valign="top"> <h3>🛒 E-Commerce Web Application</h3> A full-stack online store with product browsing, product details and a responsive shopping interface. <br/><br/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> </td> </tr> </table>
+
+🌍 More coming soon — digital platforms, web applications and technology solutions that support businesses, organizations and communities across Sierra Leone.
+
+GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=webslone&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webslone&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=webslone&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" /> </p>
+Mission & Vision
+🌱 Mission	🎯 Vision
+To develop innovative, accessible and impactful digital solutions through software engineering, creativity and technology.	To become a trusted digital technology brand known for useful, modern and innovative solutions that contribute to a connected digital future.
+Connect With Us
+<p align="center"> <a href="https://www.tiktok.com/@websalonehub"> <img src="https://img.shields.io/badge/TikTok-@websalonehub-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /> </a> <a href="https://github.com/webslone"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p> <p align="center"> <i>Have a project in mind? Let's build it together.</i> </p> <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:16A34A&height=120&section=footer&text=Build%20%E2%80%A2%20Innovate%20%E2%80%A2%20Grow&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer" /> </p> <!-- ================================================= --> <!-- END README --> <!-- ================================================= -->
